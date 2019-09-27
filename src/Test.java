@@ -12,7 +12,7 @@ public class Test {
                 break;
             case "sokker": ms = "May"; System.out.print(ms + " ");
                 break;
-            case "hat": ms = "June"; System.out.print(ms + " ");
+            case "hat": ms = "Jesus"; System.out.print(ms + " ");
             default: ms = "Invalid month"; System.out.print(ms + " ");
         }
         System.out.println(x);
