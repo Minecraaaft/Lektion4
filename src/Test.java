@@ -1,6 +1,6 @@
 public class Test {
     public static void main(String[] args) {
-        String x="sko" ; String ms;
+        String x="taske" ; String ms;
         switch (x) {
             case "taske": ms = "I love Cock, i mean chicken"; System.out.print(ms + " ");
                 break;
