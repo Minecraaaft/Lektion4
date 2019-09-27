@@ -2,9 +2,9 @@ public class Test {
     public static void main(String[] args) {
         String x="sko" ; String ms;
         switch (x) {
-            case "taske": ms = "January"; System.out.print(ms + " ");
+            case "taske": ms = "Januar"; System.out.print(ms + " ");
                 break;
-            case "sko":  ms = "February"; System.out.print(ms + " ");
+            case "sko":  ms = "Februar"; System.out.print(ms + " ");
 
             case "bukser":  ms = "March"; System.out.print(ms + " ");
                 break;
